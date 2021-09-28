@@ -1,6 +1,6 @@
  #  Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3>I am Pramith</h3>
+# <h3>I am Pramith</h3>
 <h3>I am Javascript developer . Mostly works with React n Node js. 
 Already have secret liaison with php 🍭 .</h3>
 
