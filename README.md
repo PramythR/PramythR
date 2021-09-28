@@ -1,4 +1,4 @@
-# Yolo, ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am Pramith & Javascript developer . Mostly works with React n Node js. 
 Already have secret liaison with php 🍭 .
