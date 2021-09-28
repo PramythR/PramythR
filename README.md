@@ -7,6 +7,6 @@ Already have secret liaison with php 🍭 .
 
 
 
- [![Twitter][1.2]][1],  [![LinkedIn][3.2]][3].
+ 
 
 
