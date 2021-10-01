@@ -3,11 +3,9 @@
 <h4>I am Javascript developer . Mostly works with React n Node js. 
 Already have secret liaison with php 🍭 .</h4>
 
- #### 🟣  Github Stats
+<h5 align="center" color ="red"> ~ Github Stats ~</h5>
  
-<p align="center"  >
 ![PramythR's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramythR&show_icons=true&theme=algolia&hide=stars)  [![Top Langs](https://github-readmestats.vercel.app/api/top-langs/?username=PramythR&layout=compact&show_icons=true&theme=algolia&line_height=20)](https://github.com/aPramythR/github-readme-stats)
-</p> 
 
 
 ## <h5 align="center" color ="red"> ~ Connect with me: ~</h5>
