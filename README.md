@@ -11,7 +11,7 @@ Already have secret liaison with php 🍭 .</h4>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramythr&show_icons=true&locale=en&theme=algolia&hide=stars" alt="pramythr" />
-src = "https://github.com/aPramythR/github-readme-stats" 
+
 </p>
 
 
