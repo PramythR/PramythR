@@ -1,4 +1,4 @@
- <h2 align="center" > Hi there ! I am Pramith </h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <h2 align="center" > Hi there !  </h2> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <h4 align="center" >I am Javascript developer . Mostly works with React n Node js. 
 Already have secret liaison with php 🍭 .</h4>
