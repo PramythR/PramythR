@@ -8,7 +8,7 @@ Already have secret liaison with php 🍭 .</h4>
 ![PramythR's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramythR&show_icons=true&theme=algolia&hide=stars)  [![Top Langs](https://github-readmestats.vercel.app/api/top-langs/?username=PramythR&layout=compact&show_icons=true&theme=algolia&line_height=20)](https://github.com/aPramythR/github-readme-stats)
 
 
-#### 🟣  Social Links
+## 🟣  Social Links
 <h3 align="center" color ="red">◀ Connect with me: ▶️</h3>
 <p align="center">
 <a href="https://codepen.io/pramthr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pramthr" height="30" width="40" color="purple" /></a>
@@ -20,8 +20,3 @@ Already have secret liaison with php 🍭 .</h4>
 <a href="https://www.behance.net/pramythr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pramythr" height="30" width="40" /></a>
 </p>
 
-<style>
- h3{
- color:red;
- }
-</style> 
