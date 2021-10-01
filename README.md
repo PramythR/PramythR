@@ -9,7 +9,7 @@ Already have secret liaison with php 🍭 .</h4>
 
 #### 🟣  Social Links
 
-<img src ="https://i.gifer.com/78KF.gif" width="30px">
+<img src ="https://i.gifer.com/78KF.gif" width="300px">
  
 
 
