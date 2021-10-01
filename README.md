@@ -1,6 +1,6 @@
  ##  Hi there ! I am Pramith  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h4>I am Javascript developer . Mostly works with React n Node js. 
+<h4 align="center" >I am Javascript developer . Mostly works with React n Node js. 
 Already have secret liaison with php 🍭 .</h4>
 
 <h5 align="center" color ="red"> ~ Github Stats ~</h5>
