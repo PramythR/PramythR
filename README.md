@@ -9,8 +9,7 @@ Already have secret liaison with php 🍭 .</h4>
 
 #### 🟣  Social Links
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/pramthr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pramthr" height="30" width="40" /></a>
 <a href="https://twitter.com/pramythr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pramythr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pramitha-rajapaksa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pramitha-rajapaksa/" height="30" width="40" /></a>
