@@ -9,7 +9,4 @@ Already have secret liaison with php 🍭 .</h4>
 
 #### 🟣  Social Links
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-![Uploading Screenshot 2021-09-27 at 16.56.26.png…]() 
