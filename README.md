@@ -8,7 +8,9 @@ Already have secret liaison with php 🍭 .</h4>
 ![PramythR's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramythR&show_icons=true&theme=algolia&hide=stars)  [![Top Langs](https://github-readmestats.vercel.app/api/top-langs/?username=PramythR&layout=compact&show_icons=true&theme=algolia&line_height=20)](https://github.com/aPramythR/github-readme-stats)
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramythr&show_icons=true&locale=en&theme=algolia&hide=stars" alt="pramythr" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramythr&show_icons=true&locale=en&theme=algolia&hide=stars" alt="pramythr" src = "https://github.com/aPramythR/github-readme-stats" />
+
+</p>
 
 
 
