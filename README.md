@@ -8,7 +8,7 @@ Already have secret liaison with php 🍭 .</h4>
 
 <p align = "center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pramythr&show_icons=true&locale=en&theme=algolia&hide=stars" alt="pramythr" />
- <img align ="center" src ="https://github-readmestats.vercel.app/api/top-langs/?username=PramythR&layout=compact&show_icons=true&theme=algolia&line_height=20"/>
+ <img align ="center" src ="https://github-readmestats.vercel.app/api/top-langs/?username=PramythR&layout=compact&show_icons=true&theme=algolia&line_height=20" />
 </p>
 
 
